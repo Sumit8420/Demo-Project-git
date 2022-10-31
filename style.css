@@ -33,6 +33,10 @@ body{
     color :aliceblue;
     font-weight: 600;
 }
+.navbar-nav li a{
+    color :aliceblue;
+    font-weight: 600;
+}
 
 .fa-bars{
     color: #fff;
@@ -45,6 +49,14 @@ body{
     color:#fff;
     padding-top: 5%;
 }
+
+.promo-title
+{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+}
+
 
 .promo-title
 {
